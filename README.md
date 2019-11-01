@@ -1,2 +1,2 @@
 # JTAG-HS3
-xilxin download tools
+xilinx download tools
